@@ -51,8 +51,12 @@ This model was created for learning and portfolio purposes. Forecasts are based 
 The model remains under active review. Errors identified through ongoing testing will be corrected as further refinements are made.
 
 ## 📂 Repository Contents
-`McDonalds.xlsx` — Integrated financial model
-Individual documents for each model.
+
+- [`McDonalds.xlsx`](McDonalds.xlsx) — Integrated financial model, including a DCF valuation tab
+- [Mcdonalds DCF Analysis.pdf](Mcdonalds%20DCF%20Analysis.pdf) — DCF valuation summary
+- [Mcdonalds Income Statement.pdf](Mcdonalds%20Income%20statement.pdf) — Income statement export
+- [Mcdonalds Statement of Cash Flows.pdf](Mcdonalds%20statement%20of%20cash%20flows.pdf) — Cash flow statement export
+- [Mcdonalds Statement of Financial Position.pdf](Mcdonalds%20statement%20of%20financial%20Position.pdf) — Balance sheet export
 
 ## 👤 Author/Socials
 #### Lawal Azeez

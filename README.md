@@ -48,6 +48,8 @@ A Discounted Cash Flow analysis was also performed to estimate McDonalds Corp's 
 ## Notes
 This model was created for learning and portfolio purposes. Forecasts are based on simplified assumptions and should not be interpreted as investment advice.
 
+The model remains under active review. Errors identified through ongoing testing will be corrected as further refinements are made.
+
 ## 📂 Repository Contents
 `McDonalds.xlsx` — Integrated financial model
 Individual documents for each model.
